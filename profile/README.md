@@ -1,9 +1,14 @@
 # Table of contents
-Privacy Policy
+About Us  
+[Privacy Policy](https://github.com/ArthMC/.github/edit/main/profile/README.md#privacy-policy)
+
+# About Us
+
+Arth is an organization currently focused on developing a self-hostable minecraft server panel called Arth Panel. You can view it's progress at the Observer(Frontend) and Quartz(Backend) Repositories.
 
 # Privacy Policy
 
-This is the first version of the Arth privacy policy, published 1:49PM Central Standard Time on October the 20th, 2022. Formatting Tweaks were made on October 21. This version is currently in effect and no future version has been published yet.
+This is the first version of the Arth privacy policy, published 1:49PM Central Standard Time on October the 20th, 2022. Formatting & Grammar Tweaks were made on October 21. This version is currently in effect and no future version has been published yet.
 
 Right to be forgotten:
 
