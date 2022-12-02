@@ -1,3 +1,6 @@
+We're on codeberg now. https://codeberg.org/arth
+
+
 # Table of contents
 About Us  
 [Privacy Policy](https://github.com/ArthMC/.github/edit/main/profile/README.md#privacy-policy)
