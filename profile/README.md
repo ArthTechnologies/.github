@@ -11,7 +11,7 @@ Arth is an organization currently focused on developing a self-hostable minecraf
 
 # Privacy Policy
 
-This is the first version of the Arth privacy policy, published 1:49PM Central Standard Time on October the 20th, 2022. Formatting & Grammar Tweaks were made on October 21. This version is currently in effect and no future version has been published yet.
+This is the first version of the Arth privacy policy, published 1:49PM Central Standard Time on October the 20th, 2022. Formatting & Grammar Tweaks were made on October 21. This version is currently in effect and the next version (which is moved to arthmc.xyz/privacy) is out and will go into effect on feb 28th.
 
 Right to be forgotten:
 
