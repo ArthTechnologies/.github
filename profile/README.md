@@ -1,1 +1,1 @@
-We have just migrated back to GitHub after 2 years on Codeberg. We are the creators of Arth Hosting, an affordable minecraft hosting service and Arth Panel, the open-source software behind it, eventually intended to be self-hostable.
+We are the creators of Arth Hosting, an affordable minecraft hosting service and Arth Panel, the open-source self-hostable Minecraft panel that's modern, capable and lightweight.
